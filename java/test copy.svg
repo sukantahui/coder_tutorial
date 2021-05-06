@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 271.4 124.78" style="enable-background:new 0 0 271.4 124.78;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#EF9B34;stroke:#000000;stroke-miterlimit:10;}
+	.st1{fill:#F7E7EB;}
+	.st2{font-family:'MyriadPro-Regular';}
+	.st3{font-size:2.7641px;}
+	.st4{fill:#EA6060;stroke:#000000;stroke-miterlimit:10;}
+	.st5{font-size:5.5282px;}
+</style>
+<g>
+	<path class="st0" d="M29.14,12.09c0,3.4-3.86,6.24-8.97,6.88v18.45h-4.39V18.97c-5.12-0.64-8.98-3.47-8.98-6.88
+		c0-3.87,5-7.01,11.17-7.01C24.14,5.08,29.14,8.22,29.14,12.09z"/>
+	<text transform="matrix(1.0438 0 0 1 9.7549 12.5785)" class="st1 st2 st3">Media Player</text>
+</g>
+<g>
+	<ellipse class="st4" cx="62.43" cy="18.3" rx="22.33" ry="14.02"/>
+	<text transform="matrix(1.0438 0 0 1 46.0017 19.2691)" class="st1 st2 st5">Media Player</text>
+</g>
+<g>
+	<ellipse class="st4" cx="116.96" cy="18.79" rx="22.33" ry="14.02"/>
+	<text transform="matrix(1.0438 0 0 1 100.5351 19.762)" class="st1 st2 st5">Media Player</text>
+</g>
+<g>
+	<ellipse class="st0" cx="168.45" cy="17.57" rx="22.33" ry="14.02"/>
+	<text transform="matrix(1.0438 0 0 1 152.0285 18.5402)" class="st1 st2 st5">Media Player</text>
+</g>
+<polygon class="st0" points="17.97,61.38 30.99,38.87 4.95,38.87 "/>
+</svg>
