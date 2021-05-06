@@ -4,30 +4,40 @@
 	 viewBox="0 0 110.61 38.13" style="enable-background:new 0 0 110.61 38.13;" xml:space="preserve">
 <style type="text/css">
 	.st0{display:none;fill:#E6E7E8;stroke:#A3AFCF;stroke-width:0.25;stroke-miterlimit:10;}
-	.st1{fill:#F0F1F1;stroke:#A3AFCF;stroke-width:0.25;stroke-miterlimit:10;}
+	.st1{opacity:0.44;fill:#1C75BC;stroke:#A3AFCF;stroke-width:0.25;stroke-miterlimit:10;}
 	.st2{font-family:'MyriadPro-Regular';}
 	.st3{font-size:2.7597px;}
 	.st4{opacity:0.42;fill:#F9ED32;}
 	.st5{font-family:'NirmalaUI';}
 	.st6{font-size:1.5887px;}
+	.st7{fill:#8DC63F;stroke:#A3AFCF;stroke-width:0.25;stroke-miterlimit:10;}
+	.st8{opacity:0.5;fill:#EF4136;stroke:#A3AFCF;stroke-width:0.25;stroke-miterlimit:10;}
+	.st9{fill:#FFF200;stroke:#A3AFCF;stroke-width:0.25;stroke-miterlimit:10;}
+	.st10{opacity:0.51;fill:#00A651;}
+	.st11{fill:#1C75BC;}
 </style>
 <rect x="0.58" y="0.48" class="st0" width="109.55" height="36.87"/>
 <path class="st1" d="M25.25,7.24v8.3h0.86l-1.8,4.68l-1.79-4.68h0.86v-8.3C19.78,7.04,17,5.65,17,3.97c0-1.82,3.27-3.29,7.32-3.29
 	c4.05,0,7.32,1.47,7.32,3.29C31.64,5.65,28.86,7.03,25.25,7.24z"/>
 <text transform="matrix(1.079 0 0 1 21.1628 4.6501)" class="st2 st3">Excel</text>
-<path class="st4" d="M81.14,25.76h-64.4c-0.92,0-1.67-0.75-1.67-1.67v-1.49c0-0.92,0.75-1.67,1.67-1.67h64.4
-	c0.92,0,1.67,0.75,1.67,1.67v1.49C82.81,25.01,82.06,25.76,81.14,25.76z"/>
+<text transform="matrix(1.079 0 0 1 38.6092 24.5878)" class="st2 st3">Operating System</text>
+<path class="st4" d="M81.91,26.05h-64.4c-0.92,0-1.67-0.75-1.67-1.67v-1.49c0-0.92,0.75-1.67,1.67-1.67h64.4
+	c0.92,0,1.67,0.75,1.67,1.67v1.49C83.58,25.3,82.83,26.05,81.91,26.05z"/>
 <text transform="matrix(-1.608123e-16 -1.1155 1 -1.793788e-16 24.732 17.2461)" class="st5 st6">Process</text>
-<path class="st1" d="M41.76,7.24v8.3h0.86l-1.8,4.68l-1.79-4.68h0.86v-8.3c-3.6-0.21-6.38-1.59-6.38-3.28
-	c0-1.82,3.27-3.29,7.32-3.29c4.05,0,7.32,1.47,7.32,3.29C48.15,5.65,45.37,7.03,41.76,7.24z"/>
-<text transform="matrix(1.079 0 0 1 37.6287 4.6501)" class="st2 st3">Excel</text>
-<text transform="matrix(-1.608123e-16 -1.1155 1 -1.793788e-16 41.2585 17.2461)" class="st5 st6">Process</text>
-<path class="st1" d="M58.41,7.24v8.3h0.86l-1.8,4.68l-1.79-4.68h0.86v-8.3c-3.6-0.21-6.38-1.59-6.38-3.28
-	c0-1.82,3.27-3.29,7.32-3.29c4.05,0,7.32,1.47,7.32,3.29C64.79,5.65,62.01,7.03,58.41,7.24z"/>
-<text transform="matrix(1.079 0 0 1 54.2739 4.6501)" class="st2 st3">Excel</text>
-<text transform="matrix(-1.608123e-16 -1.1155 1 -1.793788e-16 57.9036 17.2461)" class="st5 st6">Process</text>
-<path class="st1" d="M74.78,7.24v8.3h0.86l-1.8,4.68l-1.79-4.68h0.86v-8.3c-3.6-0.21-6.38-1.59-6.38-3.28
-	c0-1.82,3.27-3.29,7.32-3.29c4.05,0,7.32,1.47,7.32,3.29C81.16,5.65,78.39,7.03,74.78,7.24z"/>
-<text transform="matrix(1.079 0 0 1 70.6458 4.6501)" class="st2 st3">Excel</text>
-<text transform="matrix(-1.608123e-16 -1.1155 1 -1.793788e-16 74.2755 17.2461)" class="st5 st6">Process</text>
+<path class="st7" d="M41.33,7.24v8.3h0.86l-1.8,4.68l-1.79-4.68h0.86v-8.3c-3.6-0.21-6.38-1.59-6.38-3.28
+	c0-1.82,3.27-3.29,7.32-3.29c4.05,0,7.32,1.47,7.32,3.29C47.72,5.65,44.94,7.03,41.33,7.24z"/>
+<text transform="matrix(1.079 0 0 1 38.0576 4.6501)" class="st2 st3">VLC</text>
+<text transform="matrix(-1.608123e-16 -1.1155 1 -1.793788e-16 40.9109 17.0835)" class="st5 st6">Process</text>
+<path class="st8" d="M58.71,7.24v8.3h0.86l-1.8,4.68l-1.79-4.68h0.86v-8.3c-3.6-0.21-6.38-1.59-6.38-3.28
+	c0-1.82,3.27-3.29,7.32-3.29c4.05,0,7.32,1.47,7.32,3.29C65.09,5.65,62.31,7.03,58.71,7.24z"/>
+<text transform="matrix(1.079 0 0 1 53.6923 4.6501)" class="st2 st3">WORD</text>
+<text transform="matrix(-1.608123e-16 -1.1155 1 -1.793788e-16 58.1851 17.2461)" class="st5 st6">Process</text>
+<path class="st9" d="M75.1,7.24v8.3h0.86l-1.8,4.68l-1.79-4.68h0.86v-8.3c-3.6-0.21-6.38-1.59-6.38-3.28c0-1.82,3.27-3.29,7.32-3.29
+	c4.05,0,7.32,1.47,7.32,3.29C81.49,5.65,78.71,7.03,75.1,7.24z"/>
+<text transform="matrix(1.079 0 0 1 70.0137 4.6501)" class="st2 st3">Firefox</text>
+<text transform="matrix(-1.608123e-16 -1.1155 1 -1.793788e-16 74.5822 17.2461)" class="st5 st6">Process</text>
+<path class="st10" d="M66.59,37.26H32.83c-1.12,0-2.03-0.91-2.03-2.03v-1.65c0-1.12,0.91-2.03,2.03-2.03h33.77
+	c1.12,0,2.03,0.91,2.03,2.03v1.65C68.62,36.35,67.71,37.26,66.59,37.26z"/>
+<polygon class="st11" points="51.22,30.46 49.7,31.39 48.19,30.46 48.93,30.46 48.93,26.2 50.48,26.2 50.48,30.46 "/>
+<text transform="matrix(1.079 0 0 1 46.5581 35.1805)" class="st2 st3">CPU</text>
 </svg>

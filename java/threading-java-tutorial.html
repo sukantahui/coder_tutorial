@@ -137,7 +137,7 @@
           </div>
         </section>
         <!-- End of Batch Processing -->
-        <!-- new section -->
+        <!-- Multitasking -->
         <section>
           <div class="card">
             <div class="card-body">
@@ -161,29 +161,78 @@
                   <li>As the system switches CPU rapidly from one user/program to the next, each user is given the impression that he/she has his/her own CPU, whereas actually one CPU is being shared among many users.</li>
                 </ul>
               </p>
-              <img src="test.svg">
+              <img src="images/muti-tasking.svg">
               <hr>
-              <h5 class="card-title">Advantages</h5>
+              <h5 class="card-title">We Can achive Multitasking in following way</h5>
               <p>
-              <ul>
-                <li>Batch processing takes much of the work of the operator to the computer.</li>
-                <li>Increased performance as a new job get started as soon as the previous job is finished, without any
-                  manual intervention.</li>
-              </ul>
+                <ol>
+                  <li>Processed base multitasking(Multi Process)</li>
+                  <li>Thread based multitasking(Multi Threading)</li>
+                </ol>
               </p>
               <hr>
-              <h5 class="card-title">Disadvantages</h5>
+              <h5 class="card-title">Process-based Multitasking (Multiprocessing)</h5>
               <p>
-              <ul>
-                <li>Difficult to debug program.</li>
-                <li>A job could enter an infinite loop.</li>
-                <li>Due to lack of protection scheme, one batch job can affect pending jobs.</li>
-              </ul>
+                <ol>
+                  <li>Each process has an address in memory. In other words, each process allocates a separate memory area.</li>
+                  <li>A process is heavyweight.</li>
+                  <li>Cost of communication between the process is high.</li>
+                  <li>Switching from one process to another requires some time for saving and loading registers, memory maps, updating lists, etc.</li>
+                </ol>
+              
+      
+              <h5 class="card-title">Thread-based Multitasking (Multithreading))</h5>
+                <ol>
+                  <li>Threads share the same address space.</li>
+                  <li>A thread is lightweight.</li>
+                  <li>Cost of communication between the thread is low.</li>
+                </ol>
               </p>
             </div>
           </div>
         </section>
-        <!-- end of new section -->
+        <!-- end of Multitasking -->
+        <!-- multi processing -->
+        <section>
+          <div class="card">
+          <div class="card-body">
+            <h5 class="card-title">Multi Processing</h5>
+            <p class="card-text">Multiprocessing refers to using multiple CPUs/processors in a single system. Multiple CPUs can act in a parallel fashion and executes multiple processes together. They increase computing power to a great extent. Symmetric multiprocessing and asymmetric multiprocessing are two types of multiprocessing.</p>
+            <p>
+            </p>
+            <img src="images/muti-processing.svg">    
+          </div>
+          </div>
+        </section>
+        <!-- end of multi processing -->
+
+        <!-- multi Threading -->
+        <section>
+          <div class="card">
+          <div class="card-body">
+            <h5 class="card-title">Multi Threading</h5>
+            <p class="card-text">Multithreading refers to multiple threads being executed by a single CPU in such a way that each thread is executed in parallel fashion and CPU/processor is switched between them using context switch. Multithreading is a technique to increase the throughput of a processor. Multithreading in Java is a process of executing multiple threads simultaneously.
+              A thread is a lightweight sub-process, the smallest unit of processing. Multiprocessing and multithreading, both are used to achieve multitasking.
+              However, we use multithreading than multiprocessing because threads use a shared memory area. They don't allocate separate memory area so saves memory, and context-switching between the threads takes less time than process.
+              Java Multithreading is mostly used in games, animation, etc.</p>
+            <p>
+            </p>
+            <img src="images/muti-threading.svg">   
+            <hr>
+              <h5 class="card-title">Advantages of Java Multithreading</h5>
+              <p>
+                <ol>
+                  <li>It doesn't block the user because threads are independent and you can perform multiple operations at the same time.</li>
+                  <li>You can perform many operations together, so it saves time.</li>
+                  <li>Threads are independent, so it doesn't affect other threads if an exception occurs in a single thread.</li>
+                </ul>
+              </p> 
+          </div>
+          </div>
+        </section>
+        <!-- end of multi Threading -->
+
+        
       </div>
     </div>
     </div>
